@@ -2,6 +2,8 @@
 
 This app is for demo purposes only, showing some issue with Karma when trying to load the UI5 resources served by the UI5 Tooling (incl. Proxy). There are ways around this, but I want to specifically demonstrate the, by BAS scaffolded "SAP Fiori Freestyle" application using the LTS version (1.71.XX) of UI5.
 
+More info can be found in: https://answers.sap.com/questions/13665378/ui5-karma-config-404-on-ui5-resource-load.html
+
 ## Application Details
 |                                                                                                |
 | ---------------------------------------------------------------------------------------------- |
